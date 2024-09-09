@@ -1,92 +1,147 @@
-# CPSC 344 - Course Syllabus
+# CS 5340 - Course Syllabus
 
-Department of Computer Science, University of British Columbia
+Khoury College of Computer Sciences, Northeastern University [Vancouver Campus - West Georgia]
 
-**Fall 2024 - CPSC 344 || Introduction to HCI Methods (3)**
+**Fall 2024 - CS 5340 || Computer/Human Interaction (4)**
 
-## Course Instructors
-
-The course is co-taught by two instructors:
+## Course Instructor
 
 - Parsa Rajabi
-  - Email: *prajabi at cs`DELETEthisTEXT`.ubc.ca*
-  - Office Hours: TBA; Or, by appointment.
+  - **Email:** *p.rajabi at northeastern`DELETEthisTEXT`.edu*
+  - Adhere to [email etiquette](https://students.ubc.ca/ubclife/inbox-1-email-profs-effectively) when reaching out to the instructor.
 
-- Sang-Wha Sien
-  - Email: *swsien at cs`DELETEthisTEXT`.ubc.ca*
-  - Office Hours: TBA; Or, by appointment.
 
-Refer to course communication conventions for the best way to reach out to the instructors.
+### Office Hours
+
+- Tuesdays, 4-5 pm (Room TBA); Or, by appointment.
+  - Each student is allocated 10 minutes per office hour session. If you need more time, please schedule a separate appointment. Students are encouraged to come prepared with specific questions or topics to discuss during office hours. 
 
 ## Lectures
 
-Delivery Method: In-person (*no recordings*)
+Delivery Method: In-person (flipped classroom)
 
-- Section 101: Monday and Wednesday 3:30-4:50 PM in ESB 1013 
-- Section 102: Monday and Wednesday 5:00-6:20 PM in DMP 110
+- **Tuesdays 5:30-7:30 PM - Room 1418**
+- Vancouver Campus* - West Georgia
 
-## Tutorial/Workshops
+#### Land Acknowledgement*
 
-CPSC 344 has four "workshops" (listed as Tutorials on Workday). These sessions are designed to be hands-on and interactive, where students will work on assignments, projects, and other activities. The workshops are only conducted in-person, no recordings will be made available.
+We acknowledge that the land on which we gather is the unceded territory of the Coast Salish Peoples, including the territories of the xʷməθkʷəy̓əm (Musqueam), Sḵwx̱wú7mesh (Squamish), and səl̓ílwətaɬ (Tsleil-Waututh) Nations.
 
-Workshop materials will be posted on course canvas page and mirrored on the course website.
 
-| Section | Time                 | Location   |
-| :-----: | -------------------- | ---------- |
-|   T1A   | Thursday 10:00-12:00 | ICCS X360  |
-|   T1B   | Thursday 16:00-18:00 | ICCS X360  |
-|   T1C   | Thursday 18:00-20:00 | ICCS X360  |
-|   T1D   | Friday 13:00-15:00   | ICCS X360  |
-|   T1E   | Friday 11:00-13:00   | ICCS X360  |
-|   T1F   | Friday 15:00-17:00   | ICCS X360  |
-|   T1G   | Friday 17:00-19:00   | ICCS X360  |
+### Pre-readings (Flipped Classroom) 
 
-Each tutorial/workshop will be temporarily closed at the beginning of the term. This is because we need to fill each workshop to its maximum of ~30; and thus must optimize students' schedule constraints to accommodate access by students who wish to take the course. During the first two weeks of the term, the teaching team assign each student to a tutorial session based on their schedule flexibility by running a workshop balancing survey (details announced in class). **Students on the waitlist must complete the survey in order to be considered for the course.**
+This course, as well as other MSCS courses at the Vancouver campus of Northeastern University, will be taught using a pedagogical technique known as the Flipped/Hybrid classroom.  This approach makes the most of our precious class time by eliminating the standard lecturing model, where course material is introduced to the students during class, usually via a lengthy PowerPoint presentation.  In our Flipped/Hybrid classroom, you will come to class having already completed several readings where you will be introduced to the course material.  During class, you will apply your understanding of these core concepts through carefully-chosen problems and activities, which will enable you to solidify your knowledge.  
+
+Flipped/Hybrid classrooms require much more focus and preparation time, for both the instructor and the students.  After all, it is much easier for the instructor to read a set of pre-prepared slides and for the students to passively observe and listen.  But on our campus, we will devote our class time to the computational thinking process: resolving obstacles, developing conceptual understanding, communicating solutions supported by evidence, and creating efficient algorithms that solve our problem.  Through this process, you will better develop your confidence, creativity, and critical-thinking skills, preparing you to become computer scientists (not just programmers).
+
+In order for this course to be a meaningful learning experience, you will need to come to each class well-prepared, with all assigned readings and videos complete.  This emphasis on pre-class work is the reason why our class meets for only 2 hours each week, compared to other four-credit courses at Northeastern that meet for 3.25 hours each week. If you do not complete the pre-class work, you will have a hard time following the in-class activities, which will make it that much harder for you to successfully complete the course deliverables.
+
+I have designed this course so that you will be spending approximately 12 to 20 hours per week on all activities relating to this course (i.e., pre-class work, attending class, all assessments).
+
+### In-Person Attendance
+
+If you join class in-person, you are strongly encouraged to bring your laptop or phone to class so that you can participate in the activities.
+
+Most lectures will feature interactive activities and/or polls that support the material being presented. You must be present in class to complete the activity or take the poll (participating in an online activity while not attending the synchronous session will be considered academic dishonesty and will be treated harshly). Each instructor may have a different style for assigning participation grades, but historical grading information suggests that each style results in a similar overall grade distribution. 
+
+Students are expected to attend classes regularly, complete assessments, and submit reports and other work at the times specified by the instructor. Students who are absent repeatedly from class will be evaluated by faculty responsible for the course to ascertain their ability to achieve the course objectives and to continue in the course. Instructors may include, as part of the semester's grades, marks for the quality and quantity of the student's participation in class.
+
+If you must miss class, regardless of the reason for your absence, it is **your** responsibility to catch up on the material you have missed and obtain the notes from a classmate (not from your instructor or TAs). Failing to attend the class meetings may have a detrimental impact on your ability to pass the course. If a graded activity takes place during class or lab, it is your responsibility to turn it in by the deadline whether you are in class or not. 
+
+Please don’t be late. You are an essential part of the class. Your participation is an essential part of the class. If you are late, please be courteous to others when entering.
+
+**Be present when you are attending class.** Please do not distract yourself from the class by doing other activities such as phone calls, email, facebook, chat/IM/texting, games, web surfing – unless it has a direct connection to the class activity.
+
+### Classroom Etiquette
+
+The classroom principles that we will follow in the classroom are transparency, equity and inclusion, participation, active dialog, and constructive critique. Students are expected to support each other, learn from each other, and help each other grow. Students have the responsibility to conduct themselves in ways that will help them learn, yet that will not disrupt other students’ learning. While each student will be working closely with their team members, you are also expected to engage with your classmates in a respectful, kind, and helpful manner.
+
+In the class, we encourage asking questions, sharing ideas, and engaging in discussions related to the class topics. Sometimes discussions may steer away from the course content, and the course instructor will reserve the right to re-direct it back on track.
+
+Giving and receiving feedback is one of the core activities in this class. When giving and receiving feedback, it is important to keep in mind that we give feedback because we want all projects to succeed. Our feedback will highlight parts that work well but also point out aspects that can be improved. The feedback should not be taken personally or seen as an attack on students' knowledge or capabilities. Thus, we will learn a craft of constructive feedback and practice it in the class regularly.
 
 ## Course Description
 
-> Basic tools and techniques, teaching a systematic approach to interface design, task analysis, analytic and empirical evaluation methods.
-[UBC Academic Calender - CPSC 344](http://www.cs.ubc.ca/nest/imager/courses.php#hct)
+Covers the principles of human-computer interaction and the design and evaluation of user interfaces. Topics include an overview of human information processing subsystems (perception, memory, attention, and problem solving); how the properties of these systems affect the design of user interfaces; the principles, guidelines, and specification languages for designing good user interfaces, with emphasis on tool kits and libraries of standard graphical user interface objects; and a variety of interface evaluation methodologies that can be used to measure the usability of software. Other topics may include World Wide Web design principles and tools, computer-supported cooperative work, multimodal and “next generation” interfaces, speech and natural language interfaces, and virtual reality interfaces. Course work includes both the creation and implementation of original user interface designs, and the evaluation of user interfaces created by others. Requires knowledge of C programming language/UNIX.
 
-Human Computer Interaction (HCI) design is "design for human use". Computers are a ubiquitous part of many interactions in our lives, from the mundane every-dayness of light switches and vending machines to entertainment and education to sophisticated instruments and complex energy and defense systems.
+### Pre-requisites
 
-In this course, we will guide you to broaden your grasp of what a user interface can and should be, what computer science is and can be, and try your hand at doing better yourself. It is a fast-paced, hands-on, project-based experience designed around active lecture sessions supported by readings, assignments, and weekly workshop sessions, where students practice and explore the concepts introduced in lecture, and go well beyond them to learn and apply HCI techniques in the assignments that build into group projects.
+Students must have a strong attention to detail and ability to work in a team environment.
 
-Relationship to other UBC-CS HCI Courses ([Full listing of our HCI offerings](http://www.cs.ubc.ca/nest/imager/courses.php#hct)):
-CPSC 344 and 444 form a two-course undergrad sequence; 444 covers more advanced evaluation material.
+## Course Objectives
 
-## Pre-requisites
+This course is open to all graduate students in the MSCS program, and fulfills the following course objectives:
 
-- [CPSC 210](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=210) (or its equivalent) is a pre-requisite for CPSC 344.
-- The main purpose of the pre-requisite is to ensure that you have experience **programming in at least two different languages**. Having mastered two, it is feasible to pick up another relatively easily; during prototyping you may need to quickly learn a new language as well as the ones you already know.
-- The other most useful skill for you to bring to class is **experience working on a team**, a huge part of 344. You should also have **strong written and verbal communication ability**.
+- Understand and explain key HCI ideas, including types of user interfaces, human factors, visual design principles, methods.
+- Be able to read, discuss, and extract key ideas from research papers published at top-tier HCI conferences like SIG CHI.
+- Work in teams and with participating industry partners to identify: a problem to be solved in team projects, stakeholders, functional, and interface requirements for the project
+- Understand and apply a user-centered approach through its phases: planning, ideation, rapid prototyping, and evaluation.
+- Develop a high-fidelity user interface prototype.
+- Develop and justify evaluation plan; collect and analyze study data.
+- Learn presentation skills to highlight the process and the outcome, and communicate it to industry partners.
 
-## Learning Goals
+## Course Textbooks 
 
-- Conceptual design: learn and use design techniques such as sketching, brainstorming, and storyboarding to develop design ideas given a set of requirements.
-- Prototyping: learn and use prototyping techniques, tools, and frameworks to sketch, build and evaluate human-computer interfaces.
-- Evaluation: learn and use evaluation techniques such as surveys, observations, and interviews; further, learn to combine them for complex research designs.
-- Analyze: synthesize and present quantitative and qualitative data by identifying patterns in the data using descriptive statistics and thematic analytical techniques.
-- Critique: learn how to critique interfaces in terms of design principles, human abilities and limitations, and evaluation heuristics.
-- Process: learn how to reason about the stages of a design project, which questions are appropriate to ask at each stage, and how to choose the right research, prototyping, or evaluation technique to use.
-- Understand: models of human cognition with respect to usability: human sensory systems, memory, mental models, and information processing abilities.
-- Communicate: learn how to convey your design ideas through writing, oral presentation, critique sessions, group work, and whiteboarding.
-- Collaborate: learn how to manage working with design briefs in a group setting, delegate and prioritize resources, communicate effectively within a group, and utilize group member strengths and support weaknesses
+Most resources are available via [NU's online library](https://library.northeastern.edu) or [Google Scholar](https://scholar.google.com/). If you have trouble accessing any of the resources, please let the instructor know.
+
+- The Design of Everyday Things: Revised and Expanded Edition, Don Norman, Basic Books, 2013.
+- Interaction Design: Beyond Human-Computer Interaction, Rogers, Sharp and Preece (RSP), 5th Ed, 2019, Wiley. 
+- Designing User Experience: A guide to HCI, UX and interaction design, 4th Edition by David Benyon, Pearson Publishers (2019) 
+- **Additional readings such as research papers, articles, and blog posts will be provided throughout the course.**
 
 ## Course Evaluation
 
-|              Component              | Weight (%) |
-| :---------------------------------: | :--------: |
-|            Assignment(s)            |     2      |
-| Participation (Lecture & Workshops) |     3      |
-|               Midterm               |     20     |
-|            Major Project            |     30     |
-|           Mini Project(s)           |     10     |
-|       Project Peer Evaluation       |     5      |
-|             Final Exam              |     30     |
-
+|      Component       | Weight (%) |
+| :------------------: | :--------: |
+| In-class Activities  |     10     |
+| Seminar Presentation |     10     |
+|     Assignments      |     40     |
+|    Final Project     |     40     |
 
 Do not schedule travel or other commitments during the final exam period. Final exam dates are set by the university and are not flexible.
+
+## Grade Conversion
+
+We will use the following scale to convert numerical scores into letter grades:
+
+| Grade | Percentage Range |
+|:------:|:----------------:|
+| A     | 93.00% – 100.00% |
+| A-    | 90.00% – 92.99%  |
+| B+    | 86.00% – 89.99%  |
+| B     | 82.00% – 85.99%  |
+| B-    | 77.00% – 81.99%  |
+| C+    | 73.00% – 76.99%  |
+| C     | 69.00% – 72.99%  |
+| C-    | 65.00% – 68.99%  |
+| F     | Less than 65.00% |
+
+
+## Important Notes
+
+- Students must attain a passing grade on all components of the course in order to obtain a clear pass (C or better). 
+- Professionalism is expected at all times. This includes respectful communication with your peers and instructors, as well as timely submission of assignments and participation in group work. Students who do not meet the standards of professionalism will be subject to penalties.  
+
+## Topics
+
+The topics for this course are (subject to change):
+
+- Introduction to HCI
+  - History of HCI, Principles of Interaction Design, User-Centered Design
+- AI in HCI
+  - Designing for AI systems, Ethical considerations and implications
+- Understanding People and Context
+  - UX methods, Gathering User Requirements, Task-centered Design
+- Ideation and Prototyping
+  - Ideating and Sketching: Design Sprints, Concepts, Prototypes: lo-fi, med-fi, high-fi
+- Evaluation
+  - Expert Evaluation Methods, User-based Evaluation Methods
+- Data Collection and Analysis
+  - Qualitative, Quantitative, and Mixed methods
+- Conducting Secondary Research
+  - Literature review, Reading, Comprehension, and Discussion of Research Papers
+- Seminar Presentation
+  - Research review, Presentation skills, Peer feedback
 
 ## Importance of Group Work and Participation Policy
 
@@ -96,7 +151,6 @@ Your team's performance in the course project plays a large part in your individ
 
 To maintain fairness and academic integrity, all group members are expected to contribute equally to the project. Here’s how we handle group participation:
 
-
 1.	**Peer Resolution**: When non-participation issues arise, the first step is for group members to address and attempt to resolve them internally. It’s important to document these efforts—such as meeting notes, emails, or messages on platforms like Slack or Discord—in case further action is required.
 2.	**Reporting Non-Participation**: If internal resolution efforts do not succeed, the concerned student(s) should schedule a meeting with their TA. However, it’s important to note that without sufficient evidence of attempts at peer resolution, the TA will not proceed with scheduling the meeting. During the meeting, if scheduled, students should present the documented evidence and discuss possible next steps with the TA.
 3.	**TA Intervention**: Following the consultation, the TA may involve other teaching team members to ensure that the workload is fairly distributed and completed by all group members. If additional actions are needed, the teaching team will directly engage with the specific group or individual members to determine the best course of action.
@@ -104,65 +158,88 @@ To maintain fairness and academic integrity, all group members are expected to c
 Non-contribution or “free riding” is not acceptable in this course. Every student is expected to contribute meaningfully to group projects. **Repeated failure to participate will result in penalties.** 
 
 
-## Academic Expectations
+## Northeastern and Course Policies
 
-In addition to all university rules, regulations, and academic guidelines, the following policies will hold in CS344:
+### Late Deliverables
 
-- Attendance and **prompt arrival** is expected at all classes and workshops. Quiz, assignment and team project marks will suffer from absences. In addition, there will be participation marks for in-class and workshop activities.
-- There will be no makeup for the midterm. Students who miss the midterm will receive a grade of zero. 
-- A student must pass the final exam in order to pass the course. If you fail the final exam (score < 50%), your final course grade will equal your final exam mark.
+All course items (e.g. assignments, projects, etc.) have a specific due date and time. Your work is late if it is not turned in by the deadline. In-class activities, exams and final project will not be accepted late. Take-home assignment submissions will be accepted only up to 24 hours after the deadline with 10% penalty every 6 hours (late time will be rounded up to the next level). For example, if an on-time submission would have received a grade of 90 points, the same assignment submitted 7 hours late would receive 81 points (90 x 0.90). Items submitted more than 24 hours late will receive a zero.
+ 
+Make-up assessments (including assignments, project, exams) will not be given. Sometimes life gets in the way of schedules. Sickness or other unplanned or extraordinary events happen and will be dealt with individually. It is your responsibility to ensure your situation is known to the instructor as soon as reasonably possible. You are accountable for being heard, which means you need to ensure that the instructor heard you.
+ 
+While "life happens," poor planning by you does not count. And definitely do not wait to discuss gray areas. For example, an interview opportunity arises (good!): you should not wait until the day before the assignment is due to let us know that you could not complete the assignment because you had to prepare for the interview. That would be considered poor planning. Good planning would be to alert the TA or Instructor that you got the interview and, while you hope to finish the assignment, there is a concern. Then when you don’t finish on time, it’s clear that you planned your time and that will be taken into consideration. These "good planning" situations will be considered individually as per the instructor's discretion.
 
-## Required Textbook
-
-- Interaction Design: Beyond Human-Computer Interaction, Rogers, Sharp and Preece (RSP), 5th Ed, 2019, Wiley. 
-- Available on [UBC Library website](https://ebookcentral.proquest.com/lib/ubc/detail.action?docID=5746446) and [Amazon](https://www.amazon.ca/Interaction-Design-Beyond-Human-Computer/dp/1119547253/ref=sr_1_1?dchild=1&keywords=Interaction+Design%3A+Beyond+Human-Computer+Interaction+Preece%2C+Sharp%2C+Rogers%2C+4th&qid=1595918102&sr=8-1).
-
-## Course Communication Conventions
-
-- For anything relevant to the larger group (conceptual questions, logistics issue, etc.): Post public-to-class on the course Piazza discussion group, which will be checked daily by course staff, and this way the whole class can benefit. All instructor posts will appear here.
-- For personal logistics (project, assignments, etc.): Post to course staff on Piazza.
-- For confidential or personal matters: Talk to or email the instructor(s). Include "[CPSC 344]" in the subject line of any email for a faster response. Emails without this subject line may be missed.
-  - Make sure to include your full name and student number in all correspondence.
-  - It is recommended to use your UBC email address for all course-related communication to ensure that your message is not marked as spam.
-
-## UBC and Course Policies
+In the extraordinary circumstance (e.g., medical or family emergency) that you are prevented from completing and submitting components on time, or fully participating in your group's work, we may allow late turn-in. In this case, contact your TA or the course instructor well in advance of the deadline (a usual expectation would be at least 24 hours in advance). At the discretion of the instructor considering the circumstance, a penalty may still be imposed of a mark reduction.
 
 ### Academic Integrity
 
-Academic honesty is essential to the continued functioning of the University of British Columbia as an institution of higher learning and research. All UBC students are expected to behave as honest and responsible members of an academic community. Breach of those expectations or failure to follow the appropriate policies, principles, rules, and guidelines of the University with respect to academic honesty may result in disciplinary action.”  
+Academic honesty is essential to the continued functioning of Northeastern University as an institution of higher learning and research. All Northeastern students are expected to behave as honest and responsible members of an academic community. Breach of those expectations or failure to follow the appropriate policies, principles, rules, and guidelines of the University with respect to academic honesty may result in disciplinary action. 
 
-Students are expected to be familiar with and adhere to the [UBC Academic Integrity guidelines](https://learningcommons.ubc.ca/academic-support/academic-integrity-citations/).
-
-A more detailed description of academic integrity, including the University’s policies and procedures, can be found [here](https://academicintegrity.ubc.ca/).
+Students are expected to be familiar with and adhere to the [University Academic Integrity guidelines (OSCCR)](https://osccr.sites.northeastern.edu/academic-integrity-policy/).
 
 *Failure to comply with any of these responsibilities, either knowingly or through negligence, will also be considered an act of plagiarism and subject to the same penalties.*
+
+These rules are intended to help you get the most out of your education and to clarify the line between honest and dishonest work. **The course instructor reserves the right to ask you to verbally explain the reasoning behind any answer or artifact that you turn in and to modify your final grade based on your answers.** It is vitally important that you turn in work that is your own.  If you have had a substantive discussion of any course item  with a classmate, then be sure to cite them in your report. If you are unsure of what constitutes "substantive", then ask the teaching team or err on the side of caution. Refer to the specific course policies for more details as each may have specific requirements of working in groups or individually. The default is that all work is individual unless explicitly stated otherwise.
 
 ### Artificial Intelligence (AI) / ChatGPT Policy
 
 The use of AI tools such as ChatGPT is permitted with specific guidelines (subject to audits). Please refer to the [AI Policy](ai-policy.md) for more information.
 
-### Course Waitlist
-
-- Course waitlists are being handled centrally by the Computer Science department. Go [here](https://www.cs.ubc.ca/students/undergrad/courses/waitlists) for more information. Students who attend workshops will be given waitlist priority.
-- If you do not plan to take the course, please remove yourself from the lecture or waitlist, so others may get in.
-- Emails to the instructors/TAs about waitlist position will not be answered.
-
-### Late Deliverables
-
-- Late assignments and pre-reading quizzes will receive no credit. 
-- In the extraordinary circumstance (e.g., medical or family emergency) that you are prevented from completing and submitting components on time, or fully participating in your group's work, we may allow late turn-in. In this case, contact your TA or the course staff well in advance of the deadline (a usual expectation would be 24 hours). At the discretion of staff considering the circumstance, a penalty may still be imposed of a mark reduction of 0.98^(hours late).
-
 ### Remarking Policy
+
+As a teaching team, we strive to provide fair and accurate assessments of your work while also providing as much feedback. We encourage you to review the feedback and spend your time/energy where it serves you the most which will be learning from past mistakes and self-improvement. While you reserve your right to ask for a re-grade, we find debating grades an incredible drain on course staff time and energy and prevents us from serving students well and focusing on most important aspects of the course. 
 
 If you feel a course item has been incorrectly assessed you may request that the item be remarked. However, before making a remarking request, please complete the following steps:
 
-1. Review the marking rubric and ensure you understand the marking scheme.
-2. Review the marking comments and ensure you understand the feedback.
-3. Schedule a meeting with the TA to discuss the feedback and marking.
-4. If you still feel the marking is incorrect, you may request a re-marking.
+1. Review the marking rubric and feedback/comments (if applicable).
+2. Schedule a meeting with the TA to discuss the feedback and marking.
+3. If you still feel the marking is incorrect, you may request a re-marking.
 
 #### Request a Remarking
 
-Requests must include a written case for the re-marking and be submitted to the course instructor(s) within 5 business days from receiving the mark. The request must be signed and submitted via email. 
+Requests must include a written letter for the re-marking and be submitted to the course TA/instructor within 5 business days from receiving the mark or a deadline specified by the TA/instructor, whichever comes first. The request must be signed and submitted via email. 
 
-The re-marking request will be reviewed by the teaching team and if accepted, the item will be re-marked in its entirety by both the course instructor and the marking TA. This may result in a higher, unchanged, or lower mark overall which will be final.
+Course grades are considered final on a rolling basis (e.g. as we progress through the semester). After the regrading request deadline (e.g., 5 business days or deadline set by TA/instructor), grades will be considered final and no further requests will be accepted. Students are encouraged to review their grades and ask questions within the specified time frame. Inquiries after the deadline will not be considered.
+
+The re-marking request will be reviewed by the teaching team and if accepted, the item will be re-marked in its entirety by both the course instructor and the marking TA. This may result in a higher, unchanged, or lower mark overall which will be final. 
+
+### Accommodations
+
+The goal is that every student should be able to participate in this course. If you require any special accommodations, let the teaching team know immediately so that we can work out appropriate arrangements.
+
+Students who have disabilities who wish to receive academic services and/or accommodations should visit the [Disability Access Services](https://drc.sites.northeastern.edu) or call (844) 688-6287.
+
+If you have already done so, please provide your letter from the DAS to the instructor early in the semester to arrange those accommodations.
+
+### Course Feedback
+
+Your opinions are very important to me. All students are strongly encouraged to use the [Teacher Rating and Course Evaluation (TRACE) system](https://www.northeastern.edu/trace), to complete your course evaluations. A reminder about TRACE should arrive via email about two weeks before the end of the course.
+
+In addition, I will be asking for your feedback at least once, about halfway through the semester. However, if you have concerns about the course, do not wait until you are asked. Please schedule a meeting with me, and we will discuss your concerns then.
+
+### Wellness and Mental Health Support
+
+As a graduate student, you may experience a range of challenges including significant stress, difficult life events, mood changes, excessive worry, or problems with eating and/or sleeping. If you or anyone you know is struggling, we strongly encourage you to seek support. Northeastern University provides several services and resources to support the overall wellness of students. 
+
+To access support, you can [book a Wellness Consultation](https://outlook.office365.com/owa/calendar/WellnessConsult@northeastern.onmicrosoft.com/bookings/) with the Vancouver Wellness Program Specialist. During this session, you can discuss your concerns and receive guidance on the next steps, along with access to resources that promote mental health and overall well-being. For same day appointments or more information, please email [v.williams@northeastern.edu](mailto:v.williams@northeastern.edu).
+
+Students in need of immediate support can access [Find@Northeastern](https://www.northeastern.edu/uhcs/find-at-northeastern/) for free 24/7 mental health support at 855.229.8797 (Canada) and +1.781.457.7777 (International) or [Here2Talk](https://here2talk.ca/), a free 24/7 counselling service for all post-secondary students in BC at: 604-642-5212 or toll free at 1-877-857-3397
+
+#### Wellness Consultation Referral Example
+
+Learning is most easily accomplished when you are physically and emotionally at your best. If you run into difficulties and need assistance, I encourage you to contact me during my office hours, reach out before or after class, or send me an email. I will do my best to support your success during the term. This includes identifying concerns I may have about your academic progress or wellbeing through a Wellness Consultation Referral. Through this process, I can connect you with the campus Wellness Program Specialist who offers support and assistance getting back on track to success. Only the Wellness Program Specialist can access any concerns I may identify, and a referral does not affect your academic record.
+
+For more information about the Wellness Consultation Referral process or to book a consultation directly, email Victoria Williams, the Vancouver Wellness Program Specialist - [v.williams@northeastern.edu](mailto:v.williams@northeastern.edu).
+
+### Title IX, anti-discrimination, sexual assault and harassment 
+
+Northeastern University and its faculty are committed to creating a safe and open learning environment for all students. If you or someone you know has experienced discrimination, harassment, or sexual violence (including sexual harassment, sexual assault, dating/domestic violence, or stalking), please know that help and support are available. Northeastern strongly encourages all members of the community to take action, seek support, and report incidents of discrimination, harassment, and sexual violence to the Office for University Equity and Compliance (OUEC) through the [Online Discrimination Complaint Form](https://www.northeastern.edu/ouec/file-a-complaint). 
+
+Please be aware that faculty members are Mandatory University Reporters who are required to disclose information about alleged discrimination, harassment, and sexual violence (including sexual harassment, sexual assault, dating/domestic violence, or stalking) to the OUEC. If the OUEC receives a report, a member of their office will reach out to offer information about available rights, support resources and pathways towards a resolution as a member of the campus community. Community members are not required to respond to this outreach.  
+
+If you, or another community member you know wishes to speak to a confidential resource who does not have this reporting responsibility, please contact any of the following confidential resources. These confidential resources are not required to report allegations of discrimination to the University without your signed release.  
+
+- [Find@Northeastern](https://www.northeastern.edu/uhcs/find-at-northeastern/): Offers 24/7 mental health support via phone at 877.233.9477 (in the U.S.) or +1.781.457.7777 (outside the U.S.).  
+- [Sexual Violence Resource Center](https://open.studentlife.northeastern.edu/): The SVRC provides confidential, trauma-informed support services to Northeastern students who have experienced any form of sexual violence (i.e., sexual assault, sexual harassment, sexual exploitation, domestic/dating violence, and/or stalking). Request services online at bit.ly/svrequestform.  
+- Confidential Resource Advisor: The CRA provides confidential, restorative informed support services to Northeastern students who have been accused of sexual or identity based harm. Request services online at <https://bit.ly/svrequestform>. 
+- Please visit <https://www.northeastern.edu/ouec> for a complete list of reporting options and support resources both on- and off-campus and contact the OUEC (ouec@northeastern.edu) at any time.
+
