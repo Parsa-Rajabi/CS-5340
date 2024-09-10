@@ -162,7 +162,7 @@ Non-contribution or “free riding” is not acceptable in this course. Every st
 
 ### Late Deliverables
 
-All course items (e.g. assignments, projects, etc.) have a specific due date and time. Your work is late if it is not turned in by the deadline. In-class activities, exams and final project will not be accepted late. Take-home assignment submissions will be accepted only up to 24 hours after the deadline with 10% penalty every 6 hours (late time will be rounded up to the next level). For example, if an on-time submission would have received a grade of 90 points, the same assignment submitted 7 hours late would receive 81 points (90 x 0.90). Items submitted more than 24 hours late will receive a zero.
+All course items (e.g. assignments, projects, etc.) have a specific due date and time. Your work is late if it is not turned in by the deadline. In-class activities, exams and final project will not be accepted late. Take-home assignment submissions will be accepted only up to 24 hours after the deadline with a flat 10% penalty regardless of how late it is. After 24 hours, the submission will not be accepted and you will receive a grade of 0 for that item.
  
 Make-up assessments (including assignments, project, exams) will not be given. Sometimes life gets in the way of schedules. Sickness or other unplanned or extraordinary events happen and will be dealt with individually. It is your responsibility to ensure your situation is known to the instructor as soon as reasonably possible. You are accountable for being heard, which means you need to ensure that the instructor heard you.
  
