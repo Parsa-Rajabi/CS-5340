@@ -6,15 +6,24 @@ Khoury College of Computer Sciences, Northeastern University [Vancouver Campus -
 
 ## Course Instructor
 
-- Parsa Rajabi
+- Parsa Rajabi (He/him)
   - **Email:** *p.rajabi at northeastern`DELETEthisTEXT`.edu*
   - Adhere to [email etiquette](https://students.ubc.ca/ubclife/inbox-1-email-profs-effectively) when reaching out to the instructor.
 
+### Office Hours
+
+- Tuesdays, 4:30-5:20 pm (Room 1408); Or, by appointment (contact via email at least 24 hours in advance).
+  - Each student is allocated 10 minutes per office hour session. If you need more time, please schedule a separate appointment. Students are encouraged to come prepared with specific questions or topics to discuss during office hours. 
+
+
+## Course TA
+
+- Zhimin Liang (She/her)
+  - **Email:** *liang.zhimi at northeastern`DELETEthisTEXT`.edu*
 
 ### Office Hours
 
-- Tuesdays, 4-5 pm (Room TBA); Or, by appointment.
-  - Each student is allocated 10 minutes per office hour session. If you need more time, please schedule a separate appointment. Students are encouraged to come prepared with specific questions or topics to discuss during office hours. 
+- TBA
 
 ## Lectures
 
