@@ -12,7 +12,7 @@ Khoury College of Computer Sciences, Northeastern University [Vancouver Campus -
 
 ### Office Hours
 
-- Tuesdays, 4:30-5:20 pm (Room 1408); Or, by appointment (contact via email at least 24 hours in advance).
+- Tuesdays, 4:30-5:20 pm (Room 1408); Please contact the instructor via email to schedule an appointment.
   - Each student is allocated 10 minutes per office hour session. If you need more time, please schedule a separate appointment. Students are encouraged to come prepared with specific questions or topics to discuss during office hours. 
 
 
