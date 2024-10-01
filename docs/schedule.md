@@ -1,37 +1,21 @@
-# Project and Assignment Schedule
+# Course Schedule
 
-## Standalone Assignments
+The following schedule is tentative and subject to change without notice.
 
-| Due | Description                                                 | Submission        | Type       | Weight |
-|-----|-------------------------------------------------------------|-------------------|------------|--------|
-| W3  | "Short Report Assignment: Critique an Interface"            | Canvas: report    | pairs      | 2%     |
-| W4  | TCPS tutorial (done in chunks, starting in W01)             | Canvas: certificate | individual | 0%     |
+| Week |  Date   |                     Topic                      |
+| :--: | :-----: | :--------------------------------------------: |
+|  1   | Sept 10 |            Syllabus + Introductions            |
+|  2   | Sept 17 |                Design Concepts                 |
+|  3   | Sept 24 |                  HCI Process                   |
+|  4   |  Oct 1  |                  Observation                   |
+|  5   |  Oct 8  |         Interviews `[Student Seminar]`         |
+|  6   | Oct 15  |                 Questionnaire                  |
+|  7   | Oct 22  |    Qualitative Analysis `[Student Seminar]`    |
+|  8   | Oct 29  |            HCI Prototyping Fidelity            |
+|  9   |  Nov 5  |    Task-centered Design `[Student Seminar]`    |
+|  10  | Nov 12  |    Usability Studies + Heuristic Evaluation    |
+|  11  | Nov 19  | Mental + Conceptual Models `[Student Seminar]` |
+|  12  | Nov 26  |   Cognitive Walkthroughs `[Student Seminar]`   |
+|  13  |  Dec 3  |                      TBA                       |
+|  14  | Dec 10  |                      TBA                       |
 
-## Mini-Projects
-
-| Due | Description                                                                 | Submission            | Type    | Weight |
-|-----|-----------------------------------------------------------------------------|-----------------------|---------|--------|
-| W4  | Evaluation Plan & Study Docs                                                | Canvas: report        | group   | 2%     |
-| W5  | Piloting Results and Status Update                                          | Canvas: slides + in-workshop | group | 0%     |
-| W6  | Peer sharing: 2 slides/team [in a pdf format] (1 interesting finding, 1 question for analysis) | Canvas: slides + in-workshop | group | 0%     |
-| W7  | Analysis and Requirements                                                   | Canvas: report        | group   | 12%    |
-| W8  | Mini-project peer evaluation                                                | Canvas: quiz          | individual | 1%     |
-
-*Note: project elements may change prior to mid-term.*
-
-## Project Part I
-
-| Due  | Description                                            | Submission            | Type    | Weight |
-|------|--------------------------------------------------------|-----------------------|---------|--------|
-| W8   | Checkpoint Design Review: Project Direction/Conceptual Design | Canvas: slides + in-workshop | group | 0%     |
-| W9   | Checkpoint Design Review: Paper prototyping            | Canvas: slides + in-workshop | group | 0%     |
-| W10  | Design Review: Part II Plan                            | Canvas: slides + in-workshop | group | 0%     |
-|      | Paper Prototyping Videos and Cognitive Walkthrough Report | Canvas: report       | group   | 14%    |
-
-## Project Part II
-
-| Due  | Description                                                              | Submission            | Type    | Weight |
-|------|--------------------------------------------------------------------------|-----------------------|---------|--------|
-| W12  | Checkpoint Design Review: Evaluation Plan for Usability Study & Prototype Progress | Canvas: slides + in-workshop | group | 0%     |
-| W13  | Checkpoint Design Review: Medium Fidelity Prototype Completion           | Canvas: slides + in-workshop | group | 0%     |
-| W14  | Usability Study Report + Prototype Video                                 | Canvas: report        | group   | 14%    |
