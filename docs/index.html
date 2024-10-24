@@ -164,8 +164,10 @@
       // -----------------------------------------------------------------
       name: 'CS 5340',
       homepage: 'syllabus.md',
-      loadSidebar: !(getURLParameterByName(['standalone', 'embedded']) || standalone || false),
-      loadNavbar: !(getURLParameterByName(['standalone', 'embedded']) && !(getURLParameterByName('navbar')) || standalone && !navbar ||false),
+      // loadSidebar: !(getURLParameterByName(['standalone', 'embedded']) || standalone || false),
+      // loadNavbar: !(getURLParameterByName(['standalone', 'embedded']) && !(getURLParameterByName('navbar')) || standalone && !navbar ||false),
+      loadSidebar: true,
+      loadNavbar: true,
       externalLinkTarget: (getURLParameterByName(['standalone', 'embedded'], '_top', '_blank')),
       loadFooter: (getURLParameterByName('footer') || footer || false),
 
